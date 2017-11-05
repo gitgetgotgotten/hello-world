@@ -1,4 +1,4 @@
 # hello-world
 Just a test
 
-Experiencing Git :|
+Experiencing Git |
